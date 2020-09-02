@@ -1,0 +1,23 @@
+{
+    "artistName": "氷室京介",
+    "albums": [
+        {
+            "albumName": "Flower for Algernon",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "ANGEL",
+                    "lyrics": "氷室京介",
+                    "composition": "氷室京介",
+                },
+                {
+                    "track": 2,
+                    "title": "ROXY",
+                    "lyrics": "氷室京介",
+                    "composition": "氷室京介、吉田建"
+                }
+            ]
+        }
+    ]
+
+}

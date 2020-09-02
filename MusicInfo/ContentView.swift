@@ -15,15 +15,21 @@ struct ContentView: View {
  
     var body: some View {
         TabView(selection: $selection){
-            Text("First View")
-                .font(.title)
-                .tabItem {
-                    VStack {
-                        Image("first")
-                        Text(self.musicData.albumName)
-                    }
+            VStack {
+                Text(self.musicData.albumName)
+                Text(self.musicData.artistName)
+                Text(self.musicData.titile)
+                Text(self.musicData.lyrics)
+                Text(self.musicData.composition)
+            }
+            .font(.title)
+            .tabItem {
+                VStack {
+                    Image("first")
+                    Text("First")
                 }
-                .tag(0)
+            }
+            .tag(0)
             Text("Second View")
                 .font(.title)
                 .tabItem {
