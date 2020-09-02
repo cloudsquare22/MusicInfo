@@ -13,6 +13,7 @@
 		8DC6500C24FFC60D00F1F2C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DC6500B24FFC60D00F1F2C5 /* Assets.xcassets */; };
 		8DC6500F24FFC60D00F1F2C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DC6500E24FFC60D00F1F2C5 /* Preview Assets.xcassets */; };
 		8DC6501224FFC60D00F1F2C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DC6501024FFC60D00F1F2C5 /* LaunchScreen.storyboard */; };
+		8DC6501A24FFC6A300F1F2C5 /* MusicData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC6501924FFC6A300F1F2C5 /* MusicData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8DC6500E24FFC60D00F1F2C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8DC6501124FFC60D00F1F2C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DC6501324FFC60D00F1F2C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DC6501924FFC6A300F1F2C5 /* MusicData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8DC6501024FFC60D00F1F2C5 /* LaunchScreen.storyboard */,
 				8DC6501324FFC60D00F1F2C5 /* Info.plist */,
 				8DC6500D24FFC60D00F1F2C5 /* Preview Content */,
+				8DC6501924FFC6A300F1F2C5 /* MusicData.swift */,
 			);
 			path = MusicInfo;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DC6500624FFC60B00F1F2C5 /* AppDelegate.swift in Sources */,
+				8DC6501A24FFC6A300F1F2C5 /* MusicData.swift in Sources */,
 				8DC6500824FFC60B00F1F2C5 /* SceneDelegate.swift in Sources */,
 				8DC6500A24FFC60B00F1F2C5 /* ContentView.swift in Sources */,
 			);

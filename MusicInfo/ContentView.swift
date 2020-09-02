@@ -10,6 +10,8 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var selection = 0
+    
+    @EnvironmentObject var musicData: MusicData
  
     var body: some View {
         TabView(selection: $selection){
@@ -18,7 +20,7 @@ struct ContentView: View {
                 .tabItem {
                     VStack {
                         Image("first")
-                        Text("First")
+                        Text(self.musicData.albumName)
                     }
                 }
                 .tag(0)
@@ -36,7 +38,8 @@ struct ContentView: View {
 }
 
 struct ContentView_Previews: PreviewProvider {
+    static let musicData = MusicData()
     static var previews: some View {
-        ContentView()
+        ContentView().environmentObject(musicData)
     }
 }
