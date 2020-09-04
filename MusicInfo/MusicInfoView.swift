@@ -41,6 +41,13 @@ struct MusicInfoView: View {
                 }
             }
         }
+        .onTapGesture(count: 2, perform: {
+            self.musicData.previous()
+        })
+        .onTapGesture(perform: {
+            self.musicData.next()
+        })
+
     }
 }
 

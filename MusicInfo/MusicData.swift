@@ -59,7 +59,9 @@ final class MusicData: ObservableObject {
             if let name = now.title {
                 self.titile = name
             }
-            
+            print(self.albumName)
+            print(self.artistName)
+            print(self.titile)
             print(now.albumTrackNumber)
             if self.musicInfoData.albums[0].musics.count >= now.albumTrackNumber {
                 self.lyrics = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].lyrics)
