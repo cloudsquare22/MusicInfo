@@ -7,17 +7,130 @@
                 {
                     "track": 1,
                     "title": "ANGEL",
-                    "lyrics": "氷室京介",
-                    "composition": "氷室京介",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
                 },
                 {
                     "track": 2,
                     "title": "ROXY",
-                    "lyrics": "氷室京介",
-                    "composition": "氷室京介、吉田建"
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介", "吉田建"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 3,
+                    "title": "LOVE & GAME",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 4,
+                    "title": "DEAR ALGERNON",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 5,
+                    "title": "SEX & CLASH & ROCK'N'ROLL",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 6,
+                    "title": "ALISON",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 7,
+                    "title": "SHADOW BOXER",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 8,
+                    "title": "TASTE OF MONEY",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介", "吉田建"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 9,
+                    "title": "STRANGER",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 10,
+                    "title": "PUSSY CAT",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 11,
+                    "title": "独りファシズム",
+                    "lyrics": ["泉谷しげる"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "村上\"ポンタ\"秀一",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "吉田建",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "西平彰",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "Charlie Sexton",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "下山淳",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "告井延隆",
+                    "instrument": "Pedal Steel Guitar"
+                },
+                {
+                    "name": "本多俊之",
+                    "instrument": "SOP. Sax"
+                },
+                {
+                    "name": "八尋知洋",
+                    "instrument": "Percussion"
                 }
             ]
         }
     ]
-
 }

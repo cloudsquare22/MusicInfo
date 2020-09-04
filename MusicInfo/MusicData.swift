@@ -15,6 +15,8 @@ final class MusicData: ObservableObject {
     @Published var titile = "-"
     @Published var lyrics = "-"
     @Published var composition = "-"
+    @Published var arrangement = "-"
+    @Published var musicians: [Musician] = []
     var musicInfoData: MusicInfoData = MusicInfoData(artistName: "-", albums: [])
 
     var player: MPMusicPlayerController! = MPMusicPlayerController.systemMusicPlayer
@@ -40,6 +42,7 @@ final class MusicData: ObservableObject {
         self.titile = "-"
         self.lyrics = "-"
         self.composition = "-"
+        self.arrangement = "-"
 
         if let now : MPMediaItem = player.nowPlayingItem {
             if let name = now.albumTitle {
@@ -59,10 +62,28 @@ final class MusicData: ObservableObject {
             
             print(now.albumTrackNumber)
             if self.musicInfoData.albums[0].musics.count >= now.albumTrackNumber {
-                self.lyrics = self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].lyrics
-                self.composition = self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].composition
+                self.lyrics = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].lyrics)
+                self.composition = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].composition)
+                self.arrangement = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].arrangement)
+                if self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].musicians.count > 0 {
+                    self.musicians = self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].musicians
+                }
+                else {
+                    self.musicians = self.musicInfoData.albums[0].musicians
+                }
             }
         }
+    }
+    
+    func arrayToString(_ strings: [String]) -> String {
+        var result = ""
+        for (index, string) in strings.enumerated() {
+            result = result + string
+            if strings.count > index + 1 {
+                result = result + ", "
+            }
+        }
+        return result
     }
     
     func loadMusicInfoData() {
@@ -78,6 +99,16 @@ final class MusicData: ObservableObject {
         }
         print(musicInfoData)
         self.musicInfoData = musicInfoData
+    }
+
+    func next() {
+        player.skipToNextItem()
+        setNowPlaying()
+    }
+    
+    func previous() {
+        player.skipToPreviousItem()
+        setNowPlaying()
     }
     
 }

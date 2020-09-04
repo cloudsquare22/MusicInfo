@@ -14,20 +14,13 @@ struct ContentView: View {
     @EnvironmentObject var musicData: MusicData
  
     var body: some View {
-        TabView(selection: $selection){
-            VStack {
-                Text(self.musicData.albumName)
-                Text(self.musicData.artistName)
-                Text(self.musicData.titile)
-                Text(self.musicData.lyrics)
-                Text(self.musicData.composition)
-            }
-            .font(.title)
-            .tabItem {
-                VStack {
-                    Image("first")
-                    Text("First")
-                }
+        TabView(selection: $selection) {
+            MusicInfoView()
+                .tabItem {
+                    VStack {
+                        Image("first")
+                        Text("First")
+                    }
             }
             .tag(0)
             Text("Second View")
