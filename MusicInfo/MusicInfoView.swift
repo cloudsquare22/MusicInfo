@@ -13,7 +13,12 @@ struct MusicInfoView: View {
 
     var body: some View {
         List {
-            Text(self.musicData.titile)
+            HStack {
+                Spacer()
+                Text(self.musicData.titile)
+                    .font(.title)
+                Spacer()
+            }
             Section(header: Text("Information")) {
                 HStack {
                     Text("Lyrics")
@@ -32,11 +37,11 @@ struct MusicInfoView: View {
                 }
             }
             Section(header: Text("Musicians")) {
-                ForEach(0..<self.musicData.musicians.count) { index in
+                ForEach(self.musicData.musicians) { musician in
                     HStack {
-                        Text(self.musicData.musicians[index].instrument)
+                        Text(musician.instrument)
                         Spacer()
-                        Text(self.musicData.musicians[index].name)
+                        Text(musician.name)
                     }
                 }
             }

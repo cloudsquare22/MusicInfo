@@ -18,8 +18,9 @@ struct ContentView: View {
             MusicInfoView()
                 .tabItem {
                     VStack {
-                        Image("first")
-                        Text("First")
+                        Image(systemName: "music.note")
+                            .font(.title)
+                        Text("Music Info")
                     }
             }
             .tag(0)

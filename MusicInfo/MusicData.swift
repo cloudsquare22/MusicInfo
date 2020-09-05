@@ -63,15 +63,27 @@ final class MusicData: ObservableObject {
             print(self.artistName)
             print(self.titile)
             print(now.albumTrackNumber)
-            if self.musicInfoData.albums[0].musics.count >= now.albumTrackNumber {
-                self.lyrics = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].lyrics)
-                self.composition = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].composition)
-                self.arrangement = arrayToString(self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].arrangement)
-                if self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].musicians.count > 0 {
-                    self.musicians = self.musicInfoData.albums[0].musics[now.albumTrackNumber - 1].musicians
+            var selectAlbum = -1
+            for (index, album) in self.musicInfoData.albums.enumerated() {
+                let albumName = album.albumName.uppercased().components(separatedBy: .whitespaces).joined()
+                let nowAlbumName = self.albumName.uppercased().components(separatedBy: .whitespaces).joined()
+                print(albumName)
+                print(nowAlbumName)
+                if albumName == nowAlbumName {
+                    selectAlbum = index
+                    break
+                }
+            }
+            
+            if selectAlbum != -1 && self.musicInfoData.albums[selectAlbum].musics.count >= now.albumTrackNumber {
+                self.lyrics = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].lyrics)
+                self.composition = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].composition)
+                self.arrangement = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].arrangement)
+                if self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].musicians.count > 0 {
+                    self.musicians = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].musicians
                 }
                 else {
-                    self.musicians = self.musicInfoData.albums[0].musicians
+                    self.musicians = self.musicInfoData.albums[selectAlbum].musicians
                 }
             }
         }

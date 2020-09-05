@@ -28,7 +28,8 @@ struct Music: Codable {
     let musicians: [Musician]
 }
 
-struct Musician: Codable {
+struct Musician: Codable, Identifiable {
+    let id = UUID()
     let name: String
     let instrument: String
 }
