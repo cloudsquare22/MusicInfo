@@ -26,6 +26,7 @@ struct Music: Codable {
     let composition: [String]
     let arrangement: [String]
     let musicians: [Musician]
+    let addMusicians: [Musician]!
 }
 
 struct Musician: Codable, Identifiable {

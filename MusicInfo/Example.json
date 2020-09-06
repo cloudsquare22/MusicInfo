@@ -10,7 +10,8 @@
                     "lyrics": ["Example"],
                     "composition": ["Example"],
                     "arrangement": ["Example"],
-                    "musicians": []
+                    "musicians": [],
+                    "addMusicians": []
                 }
             ],
             "musicians": [
@@ -50,7 +51,8 @@
                             "name": "Example Guitar",
                             "instrument": "Guitar"
                         }
-                    ]
+                    ],
+                    "addMusicians": []
                 }
             ],
             "musicians": []

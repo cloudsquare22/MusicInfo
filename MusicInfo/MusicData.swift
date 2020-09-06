@@ -85,6 +85,9 @@ final class MusicData: ObservableObject {
                 }
                 else {
                     self.musicians = self.musicInfoData.albums[selectAlbum].musicians
+                    if let musicians = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].addMusicians {
+                        self.musicians.append(contentsOf: musicians)
+                    }
                 }
             }
         }
