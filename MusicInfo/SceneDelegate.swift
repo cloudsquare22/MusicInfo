@@ -20,6 +20,20 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
 
+        if let url: URL = Bundle.main.url(forResource: "Example", withExtension: "json") {
+            let fileManager = FileManager.default
+            let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
+            let filePath = documentsPath + "/Example.json"
+            if fileManager.fileExists(atPath: filePath) == false {
+                do {
+                    try fileManager.copyItem(at: url, to: URL(fileURLWithPath: filePath))
+                }
+                catch let error {
+                    print(error)
+                }
+            }
+        }
+        
         // Create the SwiftUI view that provides the window contents.
         let contentView = ContentView().environmentObject(musicData)
 

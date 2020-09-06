@@ -1,0 +1,59 @@
+{
+    "artistName": "Example",
+    "albums": [
+        {
+            "albumName": "Example Album 1",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "Example 1",
+                    "lyrics": ["Example"],
+                    "composition": ["Example"],
+                    "arrangement": ["Example"],
+                    "musicians": []
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "Example Drum",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Example Bass",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Example Guitar",
+                    "instrument": "Guitar"
+                }
+            ]
+        },
+        {
+            "albumName": "Example Album 2",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "Example 1",
+                    "lyrics": ["Exmample"],
+                    "composition": ["Example"],
+                    "arrangement": ["Example"],
+                    "musicians": [
+                        {
+                            "name": "Example Drum",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "Example Bass",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Example Guitar",
+                            "instrument": "Guitar"
+                        }
+                    ]
+                }
+            ],
+            "musicians": []
+        }
+    ]
+}

@@ -37,12 +37,6 @@ final class MusicData: ObservableObject {
     
     func setNowPlaying() {
         print(#function)
-        self.albumName = "-"
-        self.artistName = "-"
-        self.titile = "-"
-        self.lyrics = "-"
-        self.composition = "-"
-        self.arrangement = "-"
 
         if let now : MPMediaItem = player.nowPlayingItem {
             if let name = now.albumTitle {
@@ -50,9 +44,15 @@ final class MusicData: ObservableObject {
             }
 
             if let name = now.albumArtist {
+                if self.artistName != name {
+                    loadMusicInfoData(artistName: name)
+                }
                 self.artistName = name
             }
             else if let name = now.artist {
+                if self.artistName != name {
+                    loadMusicInfoData(artistName: name)
+                }
                 self.artistName = name
             }
             
@@ -63,6 +63,7 @@ final class MusicData: ObservableObject {
             print(self.artistName)
             print(self.titile)
             print(now.albumTrackNumber)
+                        
             var selectAlbum = -1
             for (index, album) in self.musicInfoData.albums.enumerated() {
                 let albumName = album.albumName.uppercased().components(separatedBy: .whitespaces).joined()
@@ -101,7 +102,7 @@ final class MusicData: ObservableObject {
     }
     
     func loadMusicInfoData() {
-        guard let url = Bundle.main.url(forResource: "kyosuke_himuro", withExtension: "json") else {
+        guard let url = Bundle.main.url(forResource: "Example", withExtension: "json") else {
             fatalError("ファイルが見つからない")
         }
         guard let data = try? Data(contentsOf: url) else {
@@ -115,14 +116,31 @@ final class MusicData: ObservableObject {
         self.musicInfoData = musicInfoData
     }
 
+    func loadMusicInfoData(artistName: String) {
+        let fileManager = FileManager.default
+        let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
+        let filePath = documentsPath + "/\(artistName).json"
+        if fileManager.fileExists(atPath: filePath) == true {
+            print("File Exists:\(filePath)")
+
+            guard let data = try? Data(contentsOf: URL(fileURLWithPath: filePath)) else {
+                fatalError("ファイル読み込みエラー")
+            }
+            let decoder = JSONDecoder()
+            guard let musicInfoData = try? decoder.decode(MusicInfoData.self, from: data) else {
+                fatalError("JOSN読み込みエラー")
+            }
+            print(musicInfoData)
+            self.musicInfoData = musicInfoData
+        }
+    }
+
     func next() {
         player.skipToNextItem()
-        setNowPlaying()
     }
     
     func previous() {
         player.skipToPreviousItem()
-        setNowPlaying()
     }
     
 }
