@@ -22,7 +22,7 @@ struct Album: Codable {
 struct Music: Codable {
     let track: Int
     let title: String
-    let lyrics: [String]
+    let lyrics: [String]!
     let composition: [String]
     let arrangement: [String]
     let musicians: [Musician]!

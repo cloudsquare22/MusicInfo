@@ -77,7 +77,12 @@ final class MusicData: ObservableObject {
             }
             
             if selectAlbum != -1 && self.musicInfoData.albums[selectAlbum].musics.count >= now.albumTrackNumber {
-                self.lyrics = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].lyrics)
+                if let lyrics = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].lyrics {
+                    self.lyrics = arrayToString(lyrics)
+                }
+                else {
+                    self.lyrics = "-"
+                }
                 self.composition = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].composition)
                 self.arrangement = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].arrangement)
                 if let musicians = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].musicians, musicians.count > 0 {
@@ -91,6 +96,15 @@ final class MusicData: ObservableObject {
                         self.musicians.append(contentsOf: musicians)
                     }
                 }
+            }
+            else {
+                self.albumName = "-"
+                self.arrangement = "-"
+                self.artistName = "-"
+                self.composition = "-"
+                self.lyrics = "-"
+                self.musicians = []
+                self.titile = "-"
             }
         }
     }
