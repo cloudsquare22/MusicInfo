@@ -80,11 +80,13 @@ final class MusicData: ObservableObject {
                 self.lyrics = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].lyrics)
                 self.composition = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].composition)
                 self.arrangement = arrayToString(self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].arrangement)
-                if self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].musicians.count > 0 {
-                    self.musicians = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].musicians
+                if let musicians = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].musicians, musicians.count > 0 {
+                    self.musicians = musicians
                 }
                 else {
-                    self.musicians = self.musicInfoData.albums[selectAlbum].musicians
+                    if let musicians = self.musicInfoData.albums[selectAlbum].musicians {
+                        self.musicians = musicians
+                    }
                     if let musicians = self.musicInfoData.albums[selectAlbum].musics[now.albumTrackNumber - 1].addMusicians {
                         self.musicians.append(contentsOf: musicians)
                     }

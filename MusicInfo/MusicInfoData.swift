@@ -16,7 +16,7 @@ struct MusicInfoData: Codable {
 struct Album: Codable {
     let albumName: String
     let musics: [Music]
-    let musicians: [Musician]
+    let musicians: [Musician]!
 }
 
 struct Music: Codable {
@@ -25,7 +25,7 @@ struct Music: Codable {
     let lyrics: [String]
     let composition: [String]
     let arrangement: [String]
-    let musicians: [Musician]
+    let musicians: [Musician]!
     let addMusicians: [Musician]!
 }
 
