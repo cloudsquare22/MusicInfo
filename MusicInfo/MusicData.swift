@@ -155,16 +155,25 @@ final class MusicData: ObservableObject {
         }
     }
     
-    func musicInfoDataFileList() {
+    func musicInfoDataFileList() -> [MusicDataFile] {
         let fileManager = FileManager.default
         let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
+        var result: [MusicDataFile] = []
         do {
             let files = try fileManager.contentsOfDirectory(atPath: documentsPath)
+            for file in files {
+                if file == "Example.json" {
+                    continue
+                }
+                let musicDataFile = MusicDataFile(fileName: file)
+                result.append(musicDataFile)
+            }
             print(files)
         }
         catch {
             
         }
+        return result
     }
 
     func next() {
@@ -175,4 +184,9 @@ final class MusicData: ObservableObject {
         player.skipToPreviousItem()
     }
     
+}
+
+struct MusicDataFile: Identifiable {
+    let id = UUID()
+    let fileName: String
 }

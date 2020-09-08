@@ -34,7 +34,7 @@ struct ContentView: View {
                     }
             }
             .tag(1)
-            MusicDataView()
+            MusicDataFileView()
                 .tabItem {
                     VStack {
                         Image(systemName: "doc.plaintext")
