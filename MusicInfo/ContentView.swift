@@ -9,12 +9,22 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var selection = 0
+    @State private var selection = 1
     
     @EnvironmentObject var musicData: MusicData
  
     var body: some View {
         TabView(selection: $selection) {
+            Text("Second View")
+                .font(.title)
+                .tabItem {
+                    VStack {
+                        Image(systemName: "gear")
+                            .font(.title)
+                        Text("Setting")
+                    }
+                }
+                .tag(0)
             MusicInfoView()
                 .tabItem {
                     VStack {
@@ -23,16 +33,16 @@ struct ContentView: View {
                         Text("Music Info")
                     }
             }
-            .tag(0)
-            Text("Second View")
-                .font(.title)
+            .tag(1)
+            MusicDataView()
                 .tabItem {
                     VStack {
-                        Image("second")
-                        Text("Second")
+                        Image(systemName: "doc.plaintext")
+                            .font(.title)
+                        Text("Data")
                     }
                 }
-                .tag(1)
+                .tag(2)
         }
     }
 }

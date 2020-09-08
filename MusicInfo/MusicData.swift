@@ -27,6 +27,7 @@ final class MusicData: ObservableObject {
         notificationCenter.addObserver(self, selector: #selector(MusicData.changeMusic(_:)), name: NSNotification.Name.MPMusicPlayerControllerNowPlayingItemDidChange, object: player)
         player.beginGeneratingPlaybackNotifications()
         loadMusicInfoData()
+        musicInfoDataFileList()
         setNowPlaying()
     }
 
@@ -151,6 +152,18 @@ final class MusicData: ObservableObject {
             }
             print(musicInfoData)
             self.musicInfoData = musicInfoData
+        }
+    }
+    
+    func musicInfoDataFileList() {
+        let fileManager = FileManager.default
+        let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
+        do {
+            let files = try fileManager.contentsOfDirectory(atPath: documentsPath)
+            print(files)
+        }
+        catch {
+            
         }
     }
 
