@@ -27,7 +27,6 @@ final class MusicData: ObservableObject {
         notificationCenter.addObserver(self, selector: #selector(MusicData.changeMusic(_:)), name: NSNotification.Name.MPMusicPlayerControllerNowPlayingItemDidChange, object: player)
         player.beginGeneratingPlaybackNotifications()
         loadMusicInfoData()
-        musicInfoDataFileList()
         setNowPlaying()
     }
 
@@ -162,6 +161,9 @@ final class MusicData: ObservableObject {
         do {
             let files = try fileManager.contentsOfDirectory(atPath: documentsPath)
             for file in files {
+                if file.hasSuffix(".json") == false {
+                    continue
+                }
                 if file == "Example.json" {
                     continue
                 }
