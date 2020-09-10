@@ -45,6 +45,10 @@ struct MusicInfoView: View {
                     }
                 }
             }
+            Section(header: Text("Album & Artist")) {
+                Text(self.musicData.albumName)
+                Text(self.musicData.artistName)
+            }
         }
         .onTapGesture(count: 2, perform: {
             self.musicData.previous()

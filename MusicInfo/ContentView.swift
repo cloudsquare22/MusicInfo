@@ -15,8 +15,7 @@ struct ContentView: View {
  
     var body: some View {
         TabView(selection: $selection) {
-            Text("Second View")
-                .font(.title)
+            SettingView()
                 .tabItem {
                     VStack {
                         Image(systemName: "gear")
