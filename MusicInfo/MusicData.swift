@@ -159,7 +159,8 @@ final class MusicData: ObservableObject {
         let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
         var result: [MusicDataFile] = []
         do {
-            let files = try fileManager.contentsOfDirectory(atPath: documentsPath)
+            var files = try fileManager.contentsOfDirectory(atPath: documentsPath)
+            files.sort()
             for file in files {
                 if file.hasSuffix(".json") == false {
                     continue
