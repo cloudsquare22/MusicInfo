@@ -17,6 +17,7 @@ final class MusicData: ObservableObject {
     @Published var composition = "-"
     @Published var arrangement = "-"
     @Published var musicians: [Musician] = []
+    @Published var musicDataFileList: [MusicDataFile] = []
     var musicInfoData: MusicInfoData = MusicInfoData(artistName: "-", albums: [])
 
     var player: MPMusicPlayerController! = MPMusicPlayerController.systemMusicPlayer
@@ -154,10 +155,10 @@ final class MusicData: ObservableObject {
         }
     }
     
-    func musicInfoDataFileList() -> [MusicDataFile] {
+    func setMusicInfoDataFileList() {
         let fileManager = FileManager.default
         let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
-        var result: [MusicDataFile] = []
+        var musicDataFileList: [MusicDataFile] = []
         do {
             var files = try fileManager.contentsOfDirectory(atPath: documentsPath)
             files.sort()
@@ -169,14 +170,14 @@ final class MusicData: ObservableObject {
                     continue
                 }
                 let musicDataFile = MusicDataFile(fileName: file)
-                result.append(musicDataFile)
+                musicDataFileList.append(musicDataFile)
             }
             print(files)
         }
         catch {
             
         }
-        return result
+        self.musicDataFileList = musicDataFileList
     }
 
     func next() {

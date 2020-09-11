@@ -14,16 +14,20 @@ struct MusicDataFileView: View {
     var body: some View {
         List {
             Section(header: Text("Music Data Files")) {
-                ForEach(self.musicData.musicInfoDataFileList()) { musicDataFile in
+                ForEach(self.musicData.musicDataFileList) { musicDataFile in
                     Text(musicDataFile.fileName)
                 }
             }
+        }
+        .onAppear() {
+            self.musicData.setMusicInfoDataFileList()
         }
     }
 }
 
 struct MusicDataFileView_Previews: PreviewProvider {
+    static let musicData = MusicData()
     static var previews: some View {
-        MusicDataFileView()
+        MusicDataFileView().environmentObject(musicData)
     }
 }
