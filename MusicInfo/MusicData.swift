@@ -22,6 +22,7 @@ final class MusicData: ObservableObject {
 
     var player: MPMusicPlayerController! = MPMusicPlayerController.systemMusicPlayer
     let userDefaults = UserDefaults.standard
+    let fileManager = FileManager.default
 
     init() {
         let notificationCenter = NotificationCenter.default
@@ -137,7 +138,6 @@ final class MusicData: ObservableObject {
     }
 
     func loadMusicInfoData(artistName: String) {
-        let fileManager = FileManager.default
         let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
         let filePath = documentsPath + "/\(artistName).json"
         if fileManager.fileExists(atPath: filePath) == true {
@@ -156,7 +156,6 @@ final class MusicData: ObservableObject {
     }
     
     func setMusicInfoDataFileList() {
-        let fileManager = FileManager.default
         let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
         var musicDataFileList: [MusicDataFile] = []
         do {
