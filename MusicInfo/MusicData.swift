@@ -28,7 +28,6 @@ final class MusicData: ObservableObject {
         let notificationCenter = NotificationCenter.default
         notificationCenter.addObserver(self, selector: #selector(MusicData.changeMusic(_:)), name: NSNotification.Name.MPMusicPlayerControllerNowPlayingItemDidChange, object: player)
         player.beginGeneratingPlaybackNotifications()
-        loadMusicInfoData()
         setNowPlaying()
     }
 
