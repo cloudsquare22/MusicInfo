@@ -1,0 +1,986 @@
+{
+    "artistName": "SOY",
+    "albums": [
+        {
+            "albumName": "SOY",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "Sugar Days〜あの日〜",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "Carlos Vega",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jimmy Johnson",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Neil Larsen",
+                            "instrument": "Piano & Hammond B-3"
+                        },
+                        {
+                            "name": "Rafael Padilla",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "Greg Leisz",
+                            "instrument": "Pedal Steel Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Toy Piano & Synth"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "Tenor Sax Solo"
+                        },
+                        {
+                            "name": "山弦 & 鈴木祥子",
+                            "instrument": "Background Vocals"
+                        },
+                        {
+                            "name": "山弦、柴田、西田",
+                            "instrument": "Manual Harp ?"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "真夏へ続く道",
+                    "lyrics": ["平松八千代","宮原芽映"],
+                    "composition": ["山弦"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar & E.Guitar Solo"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar & E.Guitar Solo"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano & Vox Organ"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "IIO",
+                            "instrument": "Drums Fill"
+                        },
+                        {
+                            "name": "山弦",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "Sweet Season",
+                    "lyrics": ["鈴木祥子","佐橋佳幸"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano & Rhodes"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "鈴木祥子",
+                            "instrument": "Drums, Tambourine & Glockenspiel"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "Alto Sax Solo"
+                        },
+                        {
+                            "name": "鈴木祥子 & 八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "約束",
+                    "lyrics": ["鈴木祥子"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar & Mandolins"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar & Mandolins"
+                        },
+                        {
+                            "name": "Jim Keltner",
+                            "instrument": "Drums & Wow Wow Shaker"
+                        },
+                        {
+                            "name": "Lee Sklar",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Bill Payne",
+                            "instrument": "Wurlizer"
+                        },
+                        {
+                            "name": "Greg Leisz",
+                            "instrument": "Pedal Steel Guitar"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Bell & Wind Chime"
+                        },
+                        {
+                            "name": "David Campbell",
+                            "instrument": "String Arrangement & Conduct"
+                        },
+                        {
+                            "name": "佐橋佳幸、鈴木祥子 & 八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "夕焼け前",
+                    "lyrics": ["佐橋佳幸", "鈴木祥子"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "E & A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "E12st,A.Guitar & E.Guitar Solo"
+                        },
+                        {
+                            "name": "Jim Keltner",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Lee Sklar",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Bill Payne",
+                            "instrument": "Piano & Hammond B-3"
+                        },
+                        {
+                            "name": "IIO",
+                            "instrument": "Tambourine"
+                        },
+                        {
+                            "name": "佐橋佳幸、鈴木祥子",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "生きたい",
+                    "lyrics": ["佐橋佳幸"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "Bass & E.Sitar Solo"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar, Hammond B-3 & E.Guitar Solo"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Congas"
+                        },
+                        {
+                            "name": "IIO",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "山弦",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "Lemonade",
+                    "lyrics": ["有賀啓雄"],
+                    "composition": ["山弦"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "E.Guitar & Solo(End)"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar & Solo(Interlude)"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Rhodes & Synth"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "荒木敏雄",
+                            "instrument": "Trumpet & Flugelhorn"
+                        },
+                        {
+                            "name": "村田陽一",
+                            "instrument": "Trombone"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "Saxes, Flute, Bass Clarinet & Horn Arrangement"
+                        }
+                    ]
+                },
+                {
+                    "track": 8,
+                    "title": "恋があばれそう",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar & Solo"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "Carlos Vega",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jimmy Johnson",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Neil Larsen",
+                            "instrument": "Rhodes & Hammond B-3 Solo"
+                        },
+                        {
+                            "name": "Rafael Padilla",
+                            "instrument": "Congas"
+                        },
+                        {
+                            "name": "荒木敏雄",
+                            "instrument": "Trumpet"
+                        },
+                        {
+                            "name": "村田陽一",
+                            "instrument": "Trombone"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "Tenor Saxe & Horn Arrangement"
+                        }
+                    ]
+                },
+                {
+                    "track": 9,
+                    "title": "一週間",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar & Harmonica"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar & Piano"
+                        },
+                        {
+                            "name": "山弦",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 10,
+                    "title": "Going Home〜家に帰ろう〜",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar & Bass"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Wurlitzer & Hammond B-3"
+                        },
+                        {
+                            "name": "SOY",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "albumName": "SOY 2",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "おしえて",
+                    "lyrics": ["鈴木祥子"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano & Rhodes"
+                        },
+                        {
+                            "name": "斉藤有太",
+                            "instrument": "Piano & Rhodes"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "高良久美子",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "B.Sax"
+                        },
+                        {
+                            "name": "竹野昌邦",
+                            "instrument": "B.Sax"
+                        },
+                        {
+                            "name": "金原千恵子group",
+                            "instrument": "B.Sax"
+                        },
+                        {
+                            "name": "佐橋佳幸 & 鈴木祥子",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "リベルテ",
+                    "lyrics": ["鈴木祥子"],
+                    "composition": ["山弦"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano & B3 organ"
+                        },
+                        {
+                            "name": "SOY",
+                            "instrument": "Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "恋に似ている",
+                    "lyrics": ["鈴木祥子"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "B.Guitar & 12st.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano & Rhodes"
+                        },
+                        {
+                            "name": "斉藤有太",
+                            "instrument": "Piano & Rhodes"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "高良久美子",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "Sax & Flute"
+                        },
+                        {
+                            "name": "竹野昌邦",
+                            "instrument": "Sax & Flute"
+                        },
+                        {
+                            "name": "金原千恵子group",
+                            "instrument": "B.Sax"
+                        },
+                        {
+                            "name": "三谷泰弘",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "海鳥〜10 YEARS AFTER〜",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "斉藤有太",
+                            "instrument": "Synthesizer"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "Saxes & Woodwinds"
+                        },
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "ひなぎく",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "B.Guitar & 12st.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar & Bass"
+                        },
+                        {
+                            "name": "金原千恵子group",
+                            "instrument": "B.Sax"
+                        },
+                        {
+                            "name": "高桑英世",
+                            "instrument": "English Horn"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "雲を見ている",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Rhodes & B-3 organ"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "SOY",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "Once in a blue moon",
+                    "lyrics": ["高野寛"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Rhodes"
+                        },
+                        {
+                            "name": "斉藤有太",
+                            "instrument": "B3 organ"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "三谷泰弘、SOY",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 8,
+                    "title": "SUBWAY",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["山弦"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "G.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions & Vibraphone"
+                        },
+                        {
+                            "name": "佐橋佳幸、平松八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 9,
+                    "title": "嘘は罪",
+                    "lyrics": ["鈴木祥子"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "B3 organ & Synthesizer"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        }
+                    ]
+                },
+                {
+                    "track": 10,
+                    "title": "父親の靴",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano"
+                        },
+                        {
+                            "name": "渡辺等",
+                            "instrument": "Cello"
+                        },
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 11,
+                    "title": "りんご",
+                    "lyrics": ["宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano & B3 organ"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 12,
+                    "title": "雪降る街でノースリーブ",
+                    "lyrics": ["鈴木祥子"],
+                    "composition": ["佐橋佳幸"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "有賀啓雄",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "柴田俊文",
+                            "instrument": "Piano, B3 organ & Celesta"
+                        },
+                        {
+                            "name": "大石真理恵",
+                            "instrument": "Percussions"
+                        },
+                        {
+                            "name": "山本拓夫",
+                            "instrument": "B & T.Sax, Flute solo"
+                        },
+                        {
+                            "name": "荒木敏雄",
+                            "instrument": "Trumpet"
+                        },
+                        {
+                            "name": "西村浩二",
+                            "instrument": "Trumpet"
+                        },
+                        {
+                            "name": "村田陽一",
+                            "instrument": "Trombone"
+                        },
+                        {
+                            "name": "鈴木祥子、平松八千代",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 13,
+                    "title": "遠い日",
+                    "lyrics": ["小倉博和", "宮原芽映"],
+                    "composition": ["小倉博和"],
+                    "arrangement": ["山弦"],
+                    "musicians": [
+                        {
+                            "name": "平松八千代",
+                            "instrument": "Vocal"
+                        },
+                        {
+                            "name": "鎌田清",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "G.Guitar, E.Guitar & E.Bass"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "G.Guitar"
+                        },
+                        {
+                            "name": "渡辺等",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
