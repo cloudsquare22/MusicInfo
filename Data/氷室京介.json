@@ -1,0 +1,2823 @@
+{
+    "artistName": "氷室京介",
+    "albums": [
+        {
+            "albumName": "Flowers for Algernon",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "ANGEL",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 2,
+                    "title": "ROXY",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介", "吉田建"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 3,
+                    "title": "LOVE & GAME",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 4,
+                    "title": "DEAR ALGERNON",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 5,
+                    "title": "SEX & CLASH & ROCK'N'ROLL",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 6,
+                    "title": "ALISON",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 7,
+                    "title": "SHADOW BOXER",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 8,
+                    "title": "TASTE OF MONEY",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介", "吉田建"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 9,
+                    "title": "STRANGER",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 10,
+                    "title": "PUSSY CAT",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                },
+                {
+                    "track": 11,
+                    "title": "独りファシズム",
+                    "lyrics": ["泉谷しげる"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "吉田建"],
+                    "musicians": []
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "村上\"ポンタ\"秀一",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "吉田建",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "西平彰",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "Charlie Sexton",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "下山淳",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "告井延隆",
+                    "instrument": "Pedal Steel Guitar"
+                },
+                {
+                    "name": "本多俊之",
+                    "instrument": "SOP. Sax"
+                },
+                {
+                    "name": "八尋知洋",
+                    "instrument": "Percussion"
+                }
+            ]
+        },
+        {
+            "albumName": "NEO FASCIO",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "OVERTURE",
+                    "lyrics": [],
+                    "composition": ["佐久間正英"],
+                    "arrangement": ["佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 2,
+                    "title": "NEO FASCIO",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 3,
+                    "title": "ESCAPE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 4,
+                    "title": "CHARISMA",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 5,
+                    "title": "COOL",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 6,
+                    "title": "SUMMER GAME",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 7,
+                    "title": "RHAPSODY IN RED",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 8,
+                    "title": "MISTY",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 9,
+                    "title": "CAMOUFLAGE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 10,
+                    "title": "CALLING",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                },
+                {
+                    "track": 11,
+                    "title": "LOVE SONG",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "佐久間正英"],
+                    "musicians": []
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "佐久間正英",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "佐久間正英",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "佐久間正英",
+                    "instrument": "CMI and Synthesizer"
+                },
+                {
+                    "name": "そうる透",
+                    "instrument": "Drum"
+                }
+            ]
+        },
+        {
+            "albumName": "Higher Self",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "CRIME OF LOVE",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "土方隆行",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "BLACK-LIST",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "土方隆行",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "本田雅人",
+                            "instrument": "Sax"
+                        },
+                        {
+                            "name": "坪倉唯子",
+                            "instrument": "Chorus"
+                        },
+                        {
+                            "name": "山根麻衣",
+                            "instrument": "Chorus"
+                        },
+                        {
+                            "name": "Clay Lawrey",
+                            "instrument": "Chorus"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "VELVET ROSE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "浜口茂外也",
+                            "instrument": "Percussion"
+                        },
+                        {
+                            "name": "美久月千晴",
+                            "instrument": "Frettless & Stick Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "本田雅人",
+                            "instrument": "Flute"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "PSYCHIC BABY",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介", "友森昭一"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "土方隆行",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "坪倉唯子",
+                            "instrument": "Chorus"
+                        },
+                        {
+                            "name": "山根麻衣",
+                            "instrument": "Chorus"
+                        },
+                        {
+                            "name": "Clay Lawrey",
+                            "instrument": "Chorus"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "MAXIMUM 100の憂鬱",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard & Hamond Organ"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "WILD AT NIGHT",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介", "友森昭一"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Synth.Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "土方隆行",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "坪倉唯子",
+                            "instrument": "Chorus"
+                        },
+                        {
+                            "name": "山根麻衣",
+                            "instrument": "Chorus"
+                        },
+                        {
+                            "name": "Clay Lawrey",
+                            "instrument": "Chorus"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "STORMY NIGHT",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "美久月千晴",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "土方隆行",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "A.Guitar"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "本田雅人",
+                            "instrument": "S.Sax"
+                        }
+                    ]
+                },
+                {
+                    "track": 8,
+                    "title": "CLIMAX",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "浜口茂外也",
+                            "instrument": "Percussion"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "渡辺等",
+                            "instrument": "Cello"
+                        }
+                    ]
+                },
+                {
+                    "track": 9,
+                    "title": "CABARET IN THE HEAVEN",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "土方隆行",
+                            "instrument": "E.Guitar"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "島健",
+                            "instrument": "A.Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 10,
+                    "title": "MOON",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰", "SP≒EED"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "E & A.Guitar"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "A.Piano"
+                        },
+                        {
+                            "name": "八木のぶお",
+                            "instrument": "Harmonica"
+                        }
+                    ]
+                },
+                {
+                    "track": 11,
+                    "title": "JEALOUSYを眠らせて (REMIX VERSION)",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"],
+                    "musicians": [
+                        {
+                            "name": "永井利光",
+                            "instrument": "Drum"
+                        },
+                        {
+                            "name": "春山信吾",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "友森昭一",
+                            "instrument": "E.Guitar & Guitar Solo"
+                        },
+                        {
+                            "name": "佐橋佳幸",
+                            "instrument": "Guitar Solo"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "Keyboard"
+                        },
+                        {
+                            "name": "西平彰",
+                            "instrument": "A.Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 12,
+                    "title": "LOVER'S DAY -SOLITUDE-",
+                    "lyrics": [],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"],
+                    "musicians": [
+                        {
+                            "name": "西平彰",
+                            "instrument": "A.Piano"
+                        }
+                    ]
+                }
+            ],
+            "musicians": []
+        },
+        {
+            "albumName": "Memories Of Blue",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "KISS ME",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 2,
+                    "title": "YOU'RE THE RIGHT",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 3,
+                    "title": "Memories Of Blue",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 4,
+                    "title": "RAINY BLUE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 5,
+                    "title": "Good Luck My Love",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 6,
+                    "title": "SON OF A BITCH",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 7,
+                    "title": "Decadent",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 8,
+                    "title": "Urban Dance",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 9,
+                    "title": "GET READY \"TONGHT\" TEDDY BOY",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 10,
+                    "title": "WILL",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "西平彰",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "湊雅史",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Andy Newmark",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "美久月千晴",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "浅田孟",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Tony Levin",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "大村憲司",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "小倉博和",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "鈴川真樹",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Jeff Thal",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Ira Siegel",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "本田雅人",
+                    "instrument": "Sax"
+                },
+                {
+                    "name": "坪倉唯子",
+                    "instrument": "Chorus"
+                },
+                {
+                    "name": "山根麻衣",
+                    "instrument": "Chorus"
+                },
+                {
+                    "name": "Clay Lawrey",
+                    "instrument": "Chorus"
+                },
+                {
+                    "name": "Beverly Crosby",
+                    "instrument": "Chorus"
+                },
+                {
+                    "name": "Annette ST. John Parker",
+                    "instrument": "Chorus"
+                }
+            ]
+        },
+        {
+            "albumName": "SHAKE THE FAKE",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "VIRGIN BEAT(Re-mix)",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["ホッピー神山"]
+                },
+                {
+                    "track": 2,
+                    "title": "BREATHLESS",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["佐橋佳幸"]
+                },
+                {
+                    "track": 3,
+                    "title": "SHAKE THE FAKE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["佐橋佳幸"]
+                },
+                {
+                    "track": 4,
+                    "title": "LOST IN THE DARKNESS",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["ホッピー神山"]
+                },
+                {
+                    "track": 5,
+                    "title": "HYSTERIA",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["ホッピー神山"]
+                },
+                {
+                    "track": 6,
+                    "title": "FOREVER RAIN",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["ホッピー神山"]
+                },
+                {
+                    "track": 7,
+                    "title": "DON'T SAY GOOD BYE(Re-mix)",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["ホッピー神山","西平彰"]
+                },
+                {
+                    "track": 8,
+                    "title": "DOWN TOWN ARMY",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["ホッピー神山", "西平彰"]
+                },
+                {
+                    "track": 9,
+                    "title": "LONESOME DUMMY",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 10,
+                    "title": "BLOW",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["西平彰"]
+                },
+                {
+                    "track": 11,
+                    "title": "TRUE BELIEVER",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介", "ホッピー神山"],
+                    "arrangement": ["ホッピー神山"]
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "ホッピー神山",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "西平彰",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "難波弘之",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "中西康晴",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "松武秀樹",
+                    "instrument": "Computer Programming"
+                },
+                {
+                    "name": "菅原弘明",
+                    "instrument": "Computer Programming"
+                },
+                {
+                    "name": "中西康晴",
+                    "instrument": "Computer Programming"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "吉田光",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "大村憲司",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "美久月千晴",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "後藤次利",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "渡辺等",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "松井常松",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "青山純",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "山木秀夫",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "湊雅史",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "永井利光",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Steve Eto",
+                    "instrument": "Percussion"
+                },
+                {
+                    "name": "高良久美子",
+                    "instrument": "Percussion"
+                },
+                {
+                    "name": "広瀬潤次",
+                    "instrument": "Sax"
+                },
+                {
+                    "name": "斎藤ネコグループ",
+                    "instrument": "Strings"
+                },
+                {
+                    "name": "Yvonne Williams",
+                    "instrument": "Chorus"
+                },
+                {
+                    "name": "Rose Stone",
+                    "instrument": "Chorus"
+                },
+                {
+                    "name": "Jessica Williams",
+                    "instrument": "Chorus"
+                }
+            ]
+        },
+        {
+            "albumName": "MISSING PIECE",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "STAY",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "美久月千晴"]
+                },
+                {
+                    "track": 2,
+                    "title": "PLEASURE SKIN",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介", "佐橋佳幸"],
+                    "arrangement": ["佐橋佳幸"]
+                },
+                {
+                    "track": 3,
+                    "title": "MISSING PIECE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介", "佐橋佳幸"],
+                    "arrangement": ["佐橋佳幸"]
+                },
+                {
+                    "track": 4,
+                    "title": "魂を抱いてくれ(ALBUM MIX)",
+                    "lyrics": ["松本隆"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["佐橋佳幸"]
+                },
+                {
+                    "track": 5,
+                    "title": "WALTZ",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "美久月千晴"]
+                },
+                {
+                    "track": 6,
+                    "title": "IF YOU STILL SHAME ME",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "美久月千晴"]
+                },
+                {
+                    "track": 7,
+                    "title": "MIDNIGHT EVE(ALBUM MIX)",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "美久月千晴"]
+                },
+                {
+                    "track": 8,
+                    "title": "SQUALL",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "美久月千晴"]
+                },
+                {
+                    "track": 9,
+                    "title": "NAKED KING ON THE BLIND HORSE",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "美久月千晴"]
+                },
+                {
+                    "track": 10,
+                    "title": "NAKED KING ON THE BLIND HORSE",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["佐橋佳幸"]
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "小田原豊",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "湊雅史",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Carlos Vega",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Curt Bisquera",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "美久月千晴",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Jimmy Johnson",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Reggie Hamilton",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "氷室京介",
+                    "instrument": "Electric Guitar"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Electric Guitar"
+                },
+                {
+                    "name": "角田順",
+                    "instrument": "Electric Guitar"
+                },
+                {
+                    "name": "北島健二",
+                    "instrument": "Electric Guitar"
+                },
+                {
+                    "name": "土方隆行",
+                    "instrument": "Electric Guitar"
+                },
+                {
+                    "name": "友森昭一",
+                    "instrument": "Electric Guitar"
+                },
+                {
+                    "name": "氷室京介",
+                    "instrument": "Acoustic Guitar"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Acoustic Guitar"
+                },
+                {
+                    "name": "角田順",
+                    "instrument": "Acoustic Guitar"
+                },
+                {
+                    "name": "友森昭一",
+                    "instrument": "Acoustic Guitar"
+                },
+                {
+                    "name": "Tommy Mandel",
+                    "instrument": "Hammond"
+                },
+                {
+                    "name": "斎藤有太",
+                    "instrument": "Hammond"
+                },
+                {
+                    "name": "小野沢篤",
+                    "instrument": "Acoustic Piano"
+                },
+                {
+                    "name": "斎藤有太",
+                    "instrument": "Acoustic Piano"
+                },
+                {
+                    "name": "Tommy Mandel",
+                    "instrument": "Keyboards"
+                },
+                {
+                    "name": "斎藤有太",
+                    "instrument": "Keyboards"
+                },
+                {
+                    "name": "西平彰",
+                    "instrument": "Keyboards"
+                },
+                {
+                    "name": "佐橋佳幸",
+                    "instrument": "Keyboards"
+                },
+                {
+                    "name": "石川鉄男",
+                    "instrument": "Computer Programming"
+                },
+                {
+                    "name": "鈴木\"Taro\"直樹",
+                    "instrument": "Computer Programming"
+                },
+                {
+                    "name": "溝口肇",
+                    "instrument": "Cello"
+                },
+                {
+                    "name": "Greg Adams",
+                    "instrument": "Horn Arrangement"
+                },
+                {
+                    "name": "Chuck Findley",
+                    "instrument": "Trumpet"
+                },
+                {
+                    "name": "Greg Adams",
+                    "instrument": "Trumpet"
+                },
+                {
+                    "name": "Nick Lane",
+                    "instrument": "Trombone"
+                },
+                {
+                    "name": "Gray Herbis",
+                    "instrument": "Tenor & Baritone Sax"
+                },
+                {
+                    "name": "Brandon Fields",
+                    "instrument": "Tenor Sax"
+                },
+                {
+                    "name": "Lenny Castro",
+                    "instrument": "Percussion"
+                },
+                {
+                    "name": "David Campbell",
+                    "instrument": "Strings Arrangement"
+                }
+            ]
+        },
+        {
+            "albumName": "I-DE-A",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "RE-BORN",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        },
+                        {
+                            "name": "Jamie Mahoborac",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Greg Adams",
+                            "instrument": "Horn Arrangement, Trumpet and Flugelhorn"
+                        },
+                        {
+                            "name": "Chuck Findley",
+                            "instrument": "Trumpet and Flugelhorn"
+                        },
+                        {
+                            "name": "Gary Herbig",
+                            "instrument": "Tenor & Baritone Saxophones and Alte Flute"
+                        },
+                        {
+                            "name": "Brandon Fields",
+                            "instrument": "Alt & Tenor Saxophones"
+                        },
+                        {
+                            "name": "Matt Finders",
+                            "instrument": "Trombone"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "SWEET MOTION",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["Steve Stevens", "Donnie Vie"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        },
+                        {
+                            "name": "Jamie Mahoborac",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Kasim Sulton",
+                            "instrument": "Background Vocals"
+                        },
+                        {
+                            "name": "Glenn Burtniek",
+                            "instrument": "Background Vocals"
+                        },
+                        {
+                            "name": "Rory Dodd",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "FLOWER DIMENSION",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        },
+                        {
+                            "name": "Jamie Mahoborac",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "David Campbell",
+                            "instrument": "Strings Arrangement"
+                        },
+                        {
+                            "name": "Kasim Sulton",
+                            "instrument": "Background Vocals"
+                        },
+                        {
+                            "name": "Glenn Burtniek",
+                            "instrument": "Background Vocals"
+                        },
+                        {
+                            "name": "Rory Dodd",
+                            "instrument": "Background Vocals"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "堕天使",
+                    "lyrics": ["松本隆"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        },
+                        {
+                            "name": "Jamie Mahoborac",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "David Campbell",
+                            "instrument": "Strings Arrangement"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "NATIVE STRANGER",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["佐久間正英"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "佐久間正英",
+                            "instrument": "Bass, Guitars, and Keyboards & Programming"
+                        },
+                        {
+                            "name": "Curt Bisquera",
+                            "instrument": "Drums"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "LOST WEEKEND",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介", "Steve Stevens"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "NO MORE FICTION",
+                    "lyrics": ["氷室京介"],
+                    "composition": ["氷室京介", "Steve Stevens"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        }
+                    ]
+                },
+                {
+                    "track": 8,
+                    "title": "DRIVE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["佐久間正英"],
+                    "musicians": [
+                        {
+                            "name": "佐久間正英",
+                            "instrument": "Bass, Guitars, and Keyboards & Programming"
+                        },
+                        {
+                            "name": "Curt Bisquera",
+                            "instrument": "Drums"
+                        }
+                    ]
+                },
+                {
+                    "track": 9,
+                    "title": "HEAT",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        }
+                    ]
+                },
+                {
+                    "track": 10,
+                    "title": "DISTANCE",
+                    "lyrics": ["氷室京介", "松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Fran Banish",
+                            "instrument": "Guitars"
+                        },
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums & Percussions"
+                        },
+                        {
+                            "name": "Jamie Mahoborac",
+                            "instrument": "Keyboards & Programming"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "albumName": "MELLOW",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "SLEEPLESS NIGHT〜眠れない夜のために〜",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitar"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "永遠〜Eternity〜(album mix)",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Curt Bisquera",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Tony Levin",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        },
+                        {
+                            "name": "David Campbell",
+                            "instrument": "String Arrangement"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "Still The One",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Tos Panos",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Paul Bushnell",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "Believe",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Vinnie Colaiuta",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Paul Bushnell",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "Silent Blue(album mix)",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Josh Freese",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Greg Richling",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Tim Pierce",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "So Far So Close",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Josh Freese",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Greg Richling",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "ダイヤモンド・ダスト",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Paul BuckMaster"],
+                    "musicians": [
+                        {
+                            "name": "Curt Bisquera",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "John Pierce",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Tim Pierce",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        },
+                        {
+                            "name": "Paul Buckmaster",
+                            "instrument": "Keyboards and Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 8,
+                    "title": "Chaos",
+                    "lyrics": ["松井五郎", "氷室京介"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Tos Panos",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Paul Bushnell",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        }
+                    ]
+                },
+                {
+                    "track": 9,
+                    "title": "Jive!",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Tos Panos",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "John Pierce",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        },
+                        {
+                            "name": "Louis Conte",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 10,
+                    "title": "bringing da noise",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Tos Panos",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "John Pierce",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards and Piano"
+                        },
+                        {
+                            "name": "Louis Conte",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "albumName": "beat haze odyssey",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "OUTSIDE BEAUTY",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Vinnie Colaiuta",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Tony Franklin",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "Girls Be Glamorous",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "幻想と真実",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "PRESSURE",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Arwand Sabal-lecco",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "The Vacant World(Without Love)",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Vinnie Colaiuta",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Tony Franklin",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "Julia",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Steve Stevens"],
+                    "musicians": [
+                        {
+                            "name": "Mark Schulman",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Steve Stevens",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "ONE",
+                    "lyrics": ["反町隆史"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介", "Kim Bullard"],
+                    "musicians": [
+                        {
+                            "name": "Vinnie Colaiuta",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Paul Bushnell",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Michael Landau",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "氷室京介",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Kimm Bullard",
+                            "instrument": "Keyboards & Programming"
+                        },
+                        {
+                            "name": "Dino Hermann",
+                            "instrument": "Pro-Tools Tech"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "albumName": "FOLLOW THE WIND",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "VIRUS",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 2,
+                    "title": "Weekend Shuffle",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 3,
+                    "title": "FOLLOW THE WIND",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 4,
+                    "title": "MONOCHROME RAINBOW",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 5,
+                    "title": "LOVE SHAKER",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 6,
+                    "title": "Claudia",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 7,
+                    "title": "FOOL MEN'S PARADE",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 8,
+                    "title": "SACRIFICE",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 9,
+                    "title": "RAP ON TRAP",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 10,
+                    "title": "ARROWS",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                }
+            ],
+            "musicians": [
+                {
+                    "name": "Josh Freeze",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Ramy Antoun",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Mark Schulman",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "永井利光",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Steve Stevens",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Michael Landau",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Tim Pierce",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Tony Franklin",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Danny Dunlap",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Kimm Bullard",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "Luis Conte",
+                    "instrument": "Percussion"
+                },
+                {
+                    "name": "森雪之丞",
+                    "instrument": "Poetry Reading"
+                }
+            ]
+        },
+        {
+            "albumName": "IN THE MOOD",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "EASY LOVE(IN THE MOOD EDITION)",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 2,
+                    "title": "IGNITION",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 3,
+                    "title": "BITCH AS WITCH(ALBUM MIX)",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 4,
+                    "title": "WILD ROMANCE(ALBUM MIX)",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 5,
+                    "title": "HARVEST",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 6,
+                    "title": "SAY SOMETHING",
+                    "lyrics": ["TAKURO"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 7,
+                    "title": "IN THE NUDE-EVEN NOT IN THE MOOD-",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 8,
+                    "title": "SWEET REVOLUTION ",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 9,
+                    "title": "SHADOW OF YOUR SMILE",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 10,
+                    "title": "PAIN",
+                    "lyrics": ["James Adkins", "Thomas D.Linton", "Richard Burch", "Zachary Lind"],
+                    "composition": ["James Adkins", "Thomas D.Linton", "Richard Burch", "Zachary Lind"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 11,
+                    "title": "MISS MURDER",
+                    "lyrics": ["Hunter Burgan", "Adam Carson", "David Marchand", "Jade Pujet"],
+                    "composition": ["Hunter Burgan", "Adam Carson", "David Marchand", "Jade Pujet"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 12,
+                    "title": "STAND ALONE",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                },
+                {
+                    "track": 13,
+                    "title": "Snow-White Moonlight",
+                    "lyrics": ["森雪之丞"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["氷室京介"]
+                }
+
+            ],
+            "musicians": [
+                {
+                    "name": "Josh Freeze",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Ramy Antoun",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Charlie Paxson",
+                    "instrument": "Drum"
+                },
+                {
+                    "name": "Michael Landau",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Tim Pierce",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "氷室京介",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Dine Meneghin",
+                    "instrument": "Guitar"
+                },
+                {
+                    "name": "Tony Franklin",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Billy Mohier",
+                    "instrument": "Bass"
+                },
+                {
+                    "name": "Kimm Bullard",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "氷室京介",
+                    "instrument": "Keyboard"
+                },
+                {
+                    "name": "Kimm Bullard",
+                    "instrument": "Programming"
+                },
+                {
+                    "name": "氷室京介",
+                    "instrument": "Programming"
+                },
+                {
+                    "name": "Jason Halbert",
+                    "instrument": "Programming"
+                },
+                {
+                    "name": "HISASHI",
+                    "instrument": "\"Say something\" Recording"
+                },
+                {
+                    "name": "TAKURO",
+                    "instrument": "\"Say something\" Recording"
+                },
+                {
+                    "name": "JIRO",
+                    "instrument": "\"Say something\" Recording"
+                },
+                {
+                    "name": "TERU",
+                    "instrument": "\"Say something\" Recording"
+                },
+                {
+                    "name": "永井利光",
+                    "instrument": "\"Say something\" Recording"
+                },
+                {
+                    "name": "Joestyles",
+                    "instrument": "Featuring Vocal on Easy Love"
+                }
+            ]
+        },
+        {
+            "albumName": "“B”ORDERLESS",
+            "musics": [
+                {
+                    "track": 1,
+                    "title": "My name is \"TABOO\"",
+                    "lyrics": ["TAKURO"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Alain Johannes", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Paulinho da Costa",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 2,
+                    "title": "PARACHUTE",
+                    "lyrics": ["TAKURO"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Alain Johannes", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Paulinho da Costa",
+                            "instrument": "Percussion"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Background Vocal"
+                        }
+                    ]
+                },
+                {
+                    "track": 3,
+                    "title": "Rock'n'Roll Suicide",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 4,
+                    "title": "Doppelganger",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 5,
+                    "title": "The Distance After Midnight",
+                    "lyrics": ["TAKURO"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 6,
+                    "title": "忘れてゆくには美し過ぎる...",
+                    "lyrics": ["TAKURO"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 7,
+                    "title": "Sarracenia",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Alain Johannes", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Paulinho da Costa",
+                            "instrument": "Percussion"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Background Vocal"
+                        }
+                    ]
+                },
+                {
+                    "track": 8,
+                    "title": "Time for miracles",
+                    "lyrics": ["Alain Johannes", "Natasha Sheider"],
+                    "composition": ["Alain Johannes", "Natasha Sheider"],
+                    "arrangement": ["Alain Johannes", "Natasha Sheider"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Natasha Shneider",
+                            "instrument": "Organ & Piano"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 9,
+                    "title": "Never Cry Wolf",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Paulinho da Costa",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 10,
+                    "title": "Traumatic Erotics",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Paulinho da Costa",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 11,
+                    "title": "BANG THE BEAT",
+                    "lyrics": ["SPIN"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["小倉博和", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "山木秀夫 ",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "美久月千晴",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "小倉博和",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "皆川真人",
+                            "instrument": "Keyboards"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 12,
+                    "title": "Across The Time",
+                    "lyrics": ["松井五郎"],
+                    "composition": ["氷室京介"],
+                    "arrangement": ["Yukihide \"YT\" Takiyama", "氷室京介"],
+                    "musicians": [
+                        {
+                            "name": "Charlie Paxson",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Jack Irons",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Joe Ayob",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Yukihide \"YT\" Takiyama",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Paulinho da Costa",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                },
+                {
+                    "track": 13,
+                    "title": "Safe And Sound",
+                    "lyrics": ["Gerard Way"],
+                    "composition": ["Gerard Way"],
+                    "arrangement": ["Greg Wells"],
+                    "musicians": [
+                        {
+                            "name": "Josh Freese",
+                            "instrument": "Drums"
+                        },
+                        {
+                            "name": "Dan Rothchild",
+                            "instrument": "Bass"
+                        },
+                        {
+                            "name": "Tim Pierce",
+                            "instrument": "Guitar"
+                        },
+                        {
+                            "name": "Alain Johannes",
+                            "instrument": "Percussion"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
