@@ -12,11 +12,15 @@ struct SettingView: View {
     var body: some View {
         List {
             Section(header: Text("About")) {
-                VStack {
-                    Text("Music Info")
-                        .font(.largeTitle)
-                    Text("Version 1.0")
-                        .font(.caption)
+                HStack {
+                    Spacer()
+                    VStack {
+                        Text("Music Info")
+                            .font(.largeTitle)
+                        Text("Version 1.0")
+                            .font(.caption)
+                    }
+                    Spacer()
                 }
             }
         }
