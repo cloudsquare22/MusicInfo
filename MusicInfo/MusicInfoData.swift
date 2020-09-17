@@ -30,7 +30,12 @@ struct Music: Codable {
 }
 
 struct Musician: Codable, Identifiable {
-    let id = UUID()
+    var id = UUID()
     let name: String
     let instrument: String
+
+    enum CodingKeys: String, CodingKey {
+        case name
+        case instrument
+    }
 }
